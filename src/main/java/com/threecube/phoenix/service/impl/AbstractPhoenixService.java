@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.threecube.ph.service.impl;
+package com.threecube.phoenix.service.impl;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

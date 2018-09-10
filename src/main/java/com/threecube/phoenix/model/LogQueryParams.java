@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.threecube.ph.model;
+package com.threecube.phoenix.model;
 
 import java.util.List;
 import java.util.Map;

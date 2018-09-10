@@ -1,7 +1,8 @@
-package com.threecube.phoenix.service;
+package com.threecube.phoenix.service.impl;
 
 import com.threecube.phoenix.reader.phoenix.PhoenixReader;
 import com.threecube.phoenix.result.LogSearchResult;
+import com.threecube.phoenix.service.LogSearchService;
 
 import java.util.List;
 

@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.threecube.ph.service.impl;
+package com.threecube.phoenix.service.impl;
 
 import java.sql.PreparedStatement;
 import java.util.List;
@@ -9,7 +9,7 @@ import java.util.List;
 import org.apache.commons.collections.CollectionUtils;
 import org.apache.commons.lang3.StringUtils;
 
-import com.threecube.ph.service.PhoenixExecuteService;
+import com.threecube.phoenix.service.PhoenixExecuteService;
 
 import lombok.extern.slf4j.Slf4j;
 

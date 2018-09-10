@@ -1,9 +1,9 @@
 /**
  * 
  */
-package com.threecube.ph.service;
+package com.threecube.phoenix.service;
 
-import com.threecube.ph.model.LogQueryParams;
+import com.threecube.phoenix.model.LogQueryParams;
 import com.threecube.phoenix.result.LogSearchResult;
 
 /**

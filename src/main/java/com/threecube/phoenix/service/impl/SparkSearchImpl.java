@@ -1,8 +1,9 @@
-package com.threecube.phoenix.service;
+package com.threecube.phoenix.service.impl;
 
 import com.threecube.phoenix.reader.spark.SparkReader;
 import com.threecube.phoenix.reader.spark.StaticConfig;
 import com.threecube.phoenix.result.LogSearchResult;
+import com.threecube.phoenix.service.LogSearchService;
 
 import java.util.List;
 

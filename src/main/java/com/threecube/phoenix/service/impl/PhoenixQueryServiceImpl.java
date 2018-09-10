@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.threecube.ph.service.impl;
+package com.threecube.phoenix.service.impl;
 
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
@@ -15,9 +15,9 @@ import org.apache.commons.lang3.StringUtils;
 import org.apache.hadoop.hbase.util.Bytes;
 import org.springframework.stereotype.Service;
 
-import com.threecube.ph.model.LogQueryParams;
-import com.threecube.ph.service.PhoenixQueryService;
+import com.threecube.phoenix.model.LogQueryParams;
 import com.threecube.phoenix.result.LogSearchResult;
+import com.threecube.phoenix.service.PhoenixQueryService;
 
 /**
  * @author wenbin_dwb
